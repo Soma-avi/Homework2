@@ -1,2 +1,2 @@
-# Homework2
-Homework 2 of the Web Design course on Coursera
+# Website-For-Learning
+For the web design course presented by the University of Michigan on Coursera
